@@ -6,9 +6,6 @@
 
  
 
-| Estatísticas                                                                                                                                                            | Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=leandro2528&show_icons=true&hide_border=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro2528&langs_count=14&hide_border=true&theme=dracula&layout=compact) |
 
 <br>
 
