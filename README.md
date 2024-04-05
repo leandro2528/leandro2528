@@ -1,9 +1,12 @@
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+my+name+is+Leandro!;&color=000000" />
+</h1>
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.ibb.co/GCYmrK1/Design-sem-nome-3.png" />
 
-<h3 align="center">👋 Hello! I'm Leandro Carvalho, passionate about technology and recently 
-  graduated in Systems Analysis and Development. With experience in PHP, I'm diving into the React 
- universe to become a full stack developer. 
- Shall we code together? 💻✨</h2>&nbsp;
+<h3 align="center">👋👋Hello! I'm Leandro Carvalho, passionate about technology and recently 
+  graduated in Systems Analysis and Development. With experience in PHP, I'm diving into 
+  the React universe to become a full stack developer. Currently, I'm also working as 
+  a freelance web developer, creating websites. Shall we code together? 💻✨💻✨</h2>&nbsp;
 
   [![Leandro Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro2528&theme=dracula&height=200")](https://github.com/leandro2528)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro2528&layout=compact&theme=dracula&height=200)](https://github.com/leandro2528)
