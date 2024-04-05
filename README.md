@@ -5,11 +5,8 @@
  universe to become a full stack developer. 
  Shall we code together? 💻✨</p>&nbsp;
 
-<div align="center">
- <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=leandro2528&theme=radical&mode=weekly" />
- <img width=40% align="center" src="https://github-readme-stats-git-main-leandro2528.vercel.app/api/top-langs/?username=leandro2528&show_icons=true&theme=radical&layout=compact"/>
-</div>
-
+  [![Leandro Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro2528&theme=radical&height=200")](https://github.com/leandro2528)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro2528&layout=compact&theme=radical&height=200)](https://github.com/leandro2528)
  
  &nbsp;
  &nbsp;
@@ -49,6 +46,9 @@
 
 &nbsp;
 &nbsp;
+
+[![Leandro Carvalho's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=leandro2528&theme=redical)](https://github.com/leandro2528)
+
 
 ## Contacts:
 
