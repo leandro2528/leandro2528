@@ -3,9 +3,9 @@
 </h1>
 <!-- <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.ibb.co/GCYmrK1/Design-sem-nome-3.png" /> -->
 
-<h3 align="center">👋👋Hello! I'm Leandro Carvalho, passionate about technology and recently graduated in Systems Analysis and Development. 
+<p align="center">👋👋Hello! I'm Leandro Carvalho, passionate about technology and recently graduated in Systems Analysis and Development. 
   With knowledge in PHP, I am diving into the React universe to become a full stack developer. I also currently work as a freelance web 
-  developer, creating websites. Let's code together? 💻✨💻✨ 💻✨💻✨</h2>&nbsp;
+  developer, creating websites. Let's code together? 💻✨💻✨ 💻✨💻✨</p>&nbsp;
 
   [![Leandro Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro2528&theme=dracula&height=200")](https://github.com/leandro2528)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro2528&layout=compact&theme=dracula&height=200)](https://github.com/leandro2528)
